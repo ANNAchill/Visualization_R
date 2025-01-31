@@ -52,7 +52,7 @@ shiny::runApp("Shiny.R")
 ![Melbourne Dashboard](https://github.com/ANNAchill/Visualization_R/blob/main/melbourne_dashboard.png)
 
 ### Human Trafficking Dashboard 🚨
-![Melbourne Dashboard](https://github.com/ANNAchill/Visualization_R/blob/main/Global.png)
+![Melbourne Dashboard](https://github.com/ANNAchill/Visualization_R/blob/main/Global_Human_Trafficking.png)
 
 ---
 
