@@ -49,10 +49,10 @@ shiny::runApp("Shiny.R")
 
 ## 📸 Project Previews
 ### Melbourne Exploration Dashboard 🏙️
-
+![Melbourne Dashboard](https://github.com/ANNAchill/Visualization_R/blob/main/melbourne_dashboard.png)
 
 ### Human Trafficking Dashboard 🚨
-
+![Melbourne Dashboard](https://github.com/ANNAchill/Visualization_R/blob/main/Global.png)
 
 ---
 
